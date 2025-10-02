@@ -25,3 +25,6 @@ https://github.com/PhilipQuijano/roman-numeral-tdd
 
 ## Video Link
 https://drive.google.com/file/d/1h2MTM8aq2mgw4v1jTCVc7MlFUNHqycAN/view?usp=sharing
+
+## Terminal History
+The terminal history can be found in the history.txt file. This shows the terminal output shown during the TDD cycle.
